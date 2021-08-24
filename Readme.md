@@ -32,7 +32,7 @@ Currently via phone_call/sms or  email @ +25473428792, gabelgbagbo@gmail.com res
 ## License ##
 MIT License
 
-Copyright (c) 2021 Gabel Gbabgbo
+Copyright (c) 2021 Gabel Gbagbo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
